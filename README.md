@@ -13,7 +13,7 @@
 <!-- section start -->
 <!-- attr: { showInPresentation:true, style:'font-size: 0.7em' } -->
 
-# Team Americano Members
+# Team Namor Members
 
 | Name | Academy | GitHub |
 | :------------- | :------------------- | :--------------------------------------------|
