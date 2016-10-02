@@ -34,7 +34,7 @@
 <!-- <img showInPresentation="true" class="slide-image" src="imgs/githubGraphics.png" style="top:25%; left:10%; width:80%; z-index:-1" /> -->
 
 
- <!-- section start -->
+<!-- section start -->
 <!-- attr: { showInPresentation:true, style:'font-size: 0.7em', hasScriptWrapper:true } -->
 
 # Code Snapshot
