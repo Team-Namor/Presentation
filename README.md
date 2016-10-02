@@ -29,40 +29,27 @@
 
 # GitHub graphics
 
-<!-- ![](./imgs/githubgraphics.png) -->
+<!-- ![](./imgs/githubGraphics.png) -->
 
 <!-- <img showInPresentation="true" class="slide-image" src="imgs/githubGraphics.png" style="top:25%; left:10%; width:80%; z-index:-1" /> -->
 
 
-<!-- section start -->
-<!-- attr: { showInPresentation:true, style:'font-size: 0.7em' } -->
-
-# Another Slide
-   
-
- 
  <!-- section start -->
 <!-- attr: { showInPresentation:true, style:'font-size: 0.7em', hasScriptWrapper:true } -->
 
-# Another Slide
+# Code Snapshot
 
-<!-- ![](./imgs/.png) -->
+<!-- ![](./imgs/codeSnap.png) -->
 
-<!-- <img showInPresentation="true" class="slide-image" src="imgs/.png" style="top:15%; width:100%; z-index:-1" /> -->
+<!-- <img showInPresentation="true" class="slide-image" src="imgs/codeSnap.png" style="top:15%; width:100%; z-index:-1" /> -->
 
 <!-- section start -->
 <!-- attr: { showInPresentation:true, style:'font-size: 0.7em' } -->
 
-# Another Slide
+# Browser Snapshot
 
+<!-- ![](./imgs/browserSnap.png) -->
 
+<!-- <img showInPresentation="true" class="slide-image" src="imgs/browserSnap.png" style="top:15%; width:100%; z-index:-1" /> -->
 
-<!-- section start -->
-<!-- attr: { showInPresentation:true, style:'font-size: 0.7em', hasScriptWrapper:true } -->
-
-# Another Slide
-
-<!-- ![](./imgs/.png) -->
-
-<!-- <img showInPresentation="true" class="slide-image" src="imgs/.png" style="top:15%; width:100%; z-index:-1" /> -->
 
