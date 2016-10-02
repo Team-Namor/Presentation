@@ -44,12 +44,10 @@
 <!-- <img showInPresentation="true" class="slide-image" src="imgs/codeSnap.png" style="top:15%; width:100%; z-index:-1" /> -->
 
 <!-- section start -->
-<!-- attr: { showInPresentation:true, style:'font-size: 0.7em' } -->
+<!-- attr: { showInPresentation:true, style:'font-size: 0.7em', hasScriptWrapper:true } -->
 
 # Browser Snapshot
 
 <!-- ![](./imgs/browserSnap.png) -->
 
 <!-- <img showInPresentation="true" class="slide-image" src="imgs/browserSnap.png" style="top:15%; width:100%; z-index:-1" /> -->
-
-
